@@ -403,7 +403,7 @@ section#home-hero{
 		width:20%;
 		float:left;
 	}
-	.rightblock b, .rightblock strong, .rightblock a {color: #555}
+	.rightblock b, .rightblock strong, .rightblock a {color: #777}
 
 }
 
@@ -413,6 +413,6 @@ section#home-hero{
 		background: #f4f4f4;
 		padding: 20px;
 		margin-top: 40px;
-		color: #555!important;
+		color: #777!important;
 		}
 }
