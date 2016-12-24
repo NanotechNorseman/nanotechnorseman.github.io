@@ -349,11 +349,11 @@ only screen and (max-width: 600px) {
 .post-content {
     background: #222222!important;
     border-radius: 0;
-    color: #bbb;
+    color: #666;
 }
 .post-title {
     margin: 40px 0px 8px 0px;
-		color: #bbb;
+		color: #999;
 }
 
 section{
