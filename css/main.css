@@ -178,7 +178,7 @@ h1 {
 
 .post-date {
 	font-size: 11px;
-	color: #666;padding: 10px;
+	color: #bbb;padding: 10px;
 }
 
 .post-content {
@@ -349,7 +349,7 @@ only screen and (max-width: 600px) {
 .post-content {
     background: #222222!important;
     border-radius: 0;
-    color: #444;
+    color: #666;
 }
 .post-title {
     margin: 40px 0px 8px 0px;
