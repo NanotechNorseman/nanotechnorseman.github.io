@@ -91,6 +91,7 @@ h1 {
 #logo {
 	float: left;
 	font-size: 20px;
+	color: #888;
 }
 
 #links a {
