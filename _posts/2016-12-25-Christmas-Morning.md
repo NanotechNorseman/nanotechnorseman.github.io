@@ -8,7 +8,7 @@ image: http://i.imgur.com/btgm7Ua.jpg
 published: true
 ---
 <p>
-  <b>I have no clue what I'm doing<\b>
+  <b>I have no clue what I'm doing</b>
 </p>
 <p>
   Another Christmas come and gone.  Much like my last post, I've got nothing to complain about, but I still feel like I'm floating.  I'm surrounded by love and warmth, but I still can't seem to shake the negative feelings that seem to be accompanying me today (and for the past few days).  I'm putting on a face though.  I don't want to drag anyone down this holiday.  If I smile enough, I might be left along enough to have time to figure out what the fuck is wrong with me this time.
