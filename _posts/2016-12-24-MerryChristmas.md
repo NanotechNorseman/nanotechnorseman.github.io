@@ -4,7 +4,8 @@ title: Merry Christmas and Happy Holidays
 category: blog
 tags: [Holidays]  
 summary: Happy Holidays from me to you, whether you celebrate or not, I hope you are well!
-image:
+image: /images/G0010054.jpg
+published: true
 ---
 
 <p>
